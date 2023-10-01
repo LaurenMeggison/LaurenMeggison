@@ -1,6 +1,6 @@
 -#Introduction
 
-- 👋 Hi, I’m @LaurenMeggison
+- 👋 Hi, I’m "Lauren Meggison"
 - 👀 I’m interested in web design & development; logo design; ai
   🌱 I’m currently learning ... html, css, java
 - 💞️ I’m looking to collaborate on ... website building 
